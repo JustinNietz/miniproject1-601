@@ -16,7 +16,7 @@ This project takes a look at terminology used in Git and explanations of other t
 ## Changelog
 
 - [x] Create an outline for README - **JN**
-- [x] Create neccessary directories to house all infomation - **JN**
+- [x] Create necessary directories to house all infomation - **JN**
 - [x] Create a Changelog - **JN**
 - [ ] Create Section 1 Features
     - [ ] Git

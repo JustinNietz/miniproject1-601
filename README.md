@@ -11,7 +11,7 @@ This project takes a look at terminology used in Git and explanations of other t
 
 ### [Section 2 - The gitFlow](Section_2-_The_gitFlow)
 
-### [Section 3 - Git commands and terminology](Sections_3-_Git_commands_and_terminology)
+### [Section 3 - Git commands and terminology](Section_3-_Git_commands_and_terminology)
 
 ## Changelog
 

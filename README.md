@@ -37,5 +37,4 @@ This project takes a look at terminology used in Git and explanations of other t
     - [ ] Pull
     - [ ] Remote Add/Remove/Show
     - [ ] Master Branch
-    
-## Sources
+  

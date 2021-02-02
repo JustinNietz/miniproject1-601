@@ -60,6 +60,6 @@ non-linear development, fully Distributed, and able to handle large projects lik
 **The Git directory** – where Git stores the metadata and object database for your project. It is what is copied when
 you clone a repository from another computer
 
-The image below demonstrates the way each section interacts with each other:
+*The image below demonstrates the way each section interacts with each other:*
 ![Git sections](Images/git_sections.png)
 

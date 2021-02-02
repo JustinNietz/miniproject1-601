@@ -1,4 +1,4 @@
-# Git <img src="Images/git_logo.png" alt="git logo" width= 100 height=50>
+# Git <img src="Images/git_logo.png" alt="git logo" width= 50 height=50>
 
 ## Brief History
 

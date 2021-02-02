@@ -1,7 +1,7 @@
-# List of Sources by Index
+# List of Sources
 
-## Section 1 - Tools for Producitivity
+### Section 1 - Tools for Producitivity
 * Git: **[git-scm](https://git-scm.com/book/en/v2)**
-## Section 2 - The gitFlow
+### Section 2 - The gitFlow
 
-## Section 3 - Git commands and terminology
+### Section 3 - Git commands and terminology

@@ -30,7 +30,7 @@ reference to that snapshot. Git does not store files again if they have not been
 
     $ git clone https://github.com/someone/someone'srepo
 
-For many other commands, refer to: **[Git Book](https://git-scm.com/book/en/v2)**
+For many other commands, refer to this book **[here.](https://git-scm.com/book/en/v2)**
 
 ## How Git improves productivity
 
@@ -60,6 +60,6 @@ non-linear development, fully Distributed, and able to handle large projects lik
 **The Git directory** – where Git stores the metadata and object database for your project. It is what is copied when
 you clone a repository from another computer
 
-<img src="Images/git_sections.png" alt="git sections" width=100 height=100>
+The image below demonstrates the way each section interacts with each other:
+![Git sections](Images/git_sections.png)
 
-An image of the way the three main sections work together.

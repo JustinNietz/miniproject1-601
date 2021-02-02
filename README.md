@@ -19,7 +19,7 @@ This project takes a look at terminology used in Git and explanations of other t
 - [x] Create necessary directories to house all infomation - **JN**
 - [x] Create a Changelog - **JN**
 - [ ] Create Section 1 Features
-    - [ ] Git
+    - [x] Git - **JN**
     - [ ] Docker
     - [ ] Continuous integration
     - [ ] Automated testing

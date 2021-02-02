@@ -8,14 +8,12 @@ reference to that snapshot. Git does not store files again if they have not been
 
 * In 2002, the Linux kernel project began using a proprietary DVCS called BitKeeper.
 * In 2005, tensions between the company that developed BitKeeper and the community that built Linux broke down.
-* Afterwards, the Linux development community, including Linus Torvalds, the creator of Linux, created Git based on the lessons they learned while using BitKeeper.
+* Afterwards, the Linux development community, including Linus Torvalds, the creator of Linux, created Git based on the
+  lessons they learned while using BitKeeper.
 
 ## How to use
 
-
-
 ### Setting up username and email
-
 
     $ git config -global user.name "Your name"
 
@@ -33,7 +31,35 @@ reference to that snapshot. Git does not store files again if they have not been
     $ git clone https://github.com/someone/someone'srepo
 
 For many other commands, refer to: **[Git Book](https://git-scm.com/book/en/v2)**
+
 ## How Git improves productivity
 
+Version control systems record changes to a file or set of files over time so that you can recall specific version
+later. Before DVCSs, there were Local Version Control Systems and CVCSs (Centralized Version Control Systems).
+
+Local Version Control kept all changes to files under revision control on one computer. CVCSs have a single server that
+contains all the versioned files.
+
+Both of these methods have major flaws. If the server goes down, no one can work on any projects until the server comes
+back online. Also, if the hard disk becomes corrupted, you risk the chance that entire databases become unusable and
+cannot be recovered.
+
+With DVCSs like Git, each client who accesses the information fully mirror the repository including its full history.
+Each and every clone and a full backup of all the data. You also do not need to be connected to the internet or be in
+the same building or even the same time zones to work on projects together. Git makes collaboration effortless.
+
+The five lessons the Linux development community used in creating Git were: speed, simple Design, strong support for
+non-linear development, fully Distributed, and able to handle large projects like the Linux kernel efficiently
 
 ## Three main sections of a Git Project
+
+**The working tree** - a single checkout of one version of the project.
+
+**The staging area** – a file that stores info about what will go into your next commit.
+
+**The Git directory** – where Git stores the metadata and object database for your project. It is what is copied when
+you clone a repository from another computer
+
+<img src="Images/git_sections.png" alt="git sections" width=100 height=100>
+
+An image of the way the three main sections work together.

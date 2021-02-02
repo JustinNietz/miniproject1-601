@@ -6,8 +6,8 @@ reference to that snapshot. Git does not store files again if they have not been
 
 ## Brief History
 
-* In 2002, the Linux kernel project began using a proprietary DVCS called BitKeeper.
-* In 2005, tensions between the company that developed BitKeeper and the community that built Linux broke down.
+* **2002**: The Linux kernel project began using a proprietary DVCS called BitKeeper.
+* **2005**: Tensions between the company that developed BitKeeper and the community that built Linux broke down.
 * Afterwards, the Linux development community, including Linus Torvalds, the creator of Linux, created Git based on the
   lessons they learned while using BitKeeper.
 

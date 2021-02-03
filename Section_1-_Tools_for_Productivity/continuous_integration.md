@@ -55,7 +55,7 @@ considerations need to be made around the existing engineering infrastructure wh
 Continuous delivery, or CD for short, is a strategy in which the development teams ensure the software is reliable to
 release at any time. CI/CD come together in a pipeline.
 
-![CI/CD Pipeline](C:\Users\justi\Desktop\NJIT IS 601\miniproject1-601\Section_1-_Tools_for_Productivity\Images\continuous-integration-and-continuous-delivery-pipeline.png)
+![Git sections](Images\continuous-integration-and-continuous-delivery-pipeline.png)
 
 There are fives stages in the CI/CD Pipeline:
 

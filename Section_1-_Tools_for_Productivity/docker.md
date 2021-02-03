@@ -22,12 +22,16 @@ container technology to create a complete solution for the creation and distribu
 Download instructions are here: **[docker.com.](https://www.docker.com/products/docker-desktop)**
 
 Once you have Docker installed, open up a command prompt and run:
-   
+
     docker run -d -p 80:80 docker/getting-started
 
 ![Docker dashboard](Images/Docker_dashboard.png)
 
 When you open the dashboard, you will see this page. The container name(jolly_bouman) is a randomly created name.
+
+Or, if you prefer a video:
+
+[![Get started with Docker](http://img.youtube.com/vi/iqqDU2crIEQ/0.jpg)](https://www.youtube.com/watch?v=iqqDU2crIEQ "Docker")
 
 ## How Docker improves productivity
 

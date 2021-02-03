@@ -21,7 +21,7 @@ container technology to create a complete solution for the creation and distribu
 
 Usage documentation can be found here at **[docker.com.](https://docs.docker.com/get-started/)**
 
-## How it improves productivity
+## How Docker improves productivity
 
 Developing apps today requires so much more than writing code, including multiple languages, frameworks, and
 architectures. Docker simplifies and accelerates your workflow. It introduced the industry standard for containers,

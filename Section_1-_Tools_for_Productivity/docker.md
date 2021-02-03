@@ -17,9 +17,13 @@ container technology to create a complete solution for the creation and distribu
 * **2013**: Docker brought the final pieces to the containerization puzzle, and the technology began to enter the
   mainstream.
 
-## How to use
+## How to install/use
 
-Usage documentation can be found here at **[docker.com.](https://docs.docker.com/get-started/)**
+Download instructions are here: **[docker.com.](https://www.docker.com/products/docker-desktop)**
+
+Once you have Docker installed, open up a command prompt and run:
+   
+    docker run -d -p 80:80 docker/getting-started
 
 ## How Docker improves productivity
 

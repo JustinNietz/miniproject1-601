@@ -18,11 +18,11 @@ This project takes a look at terminology used in Git and explanations of other t
 - [x] Create an outline for README - **JN**
 - [x] Create necessary directories to house all infomation - **JN**
 - [x] Create a Changelog - **JN**
-- [ ] Create Section 1 Features
+- [x] Create Section 1 Features
     - [x] Git - **JN**
-    - [ ] Docker
-    - [ ] Continuous integration
-    - [ ] Automated testing
+    - [x] Docker - **JN**
+    - [x] Continuous integration - **JN**
+    - [x] Automated testing - **JN**
 - [ ] Create Section 2 Features
     - [ ] gitFlow
 - [ ] Create Section 3 Features

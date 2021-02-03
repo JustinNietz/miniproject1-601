@@ -25,6 +25,10 @@ Once you have Docker installed, open up a command prompt and run:
    
     docker run -d -p 80:80 docker/getting-started
 
+![Docker dashboard](Images/Docker_dashboard.png)
+
+When you open the dashboard, you will see this page. The container name(jolly_bouman) is a randomly created name.
+
 ## How Docker improves productivity
 
 Developing apps today requires so much more than writing code, including multiple languages, frameworks, and

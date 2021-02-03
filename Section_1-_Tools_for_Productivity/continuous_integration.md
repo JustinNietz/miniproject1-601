@@ -1,4 +1,4 @@
-# Continuous integration <img src="Images/continuous-integration_logo.png" alt="CI logo" width= 50 height=50>
+# Continuous integration <img src="Images/CI_logo.png" alt="CI logo" width= 50 height=50>
 
 Continuous integration, or shortened to CI, is a valuable and well-established practice in modern, high performance
 software engineering organizations. 

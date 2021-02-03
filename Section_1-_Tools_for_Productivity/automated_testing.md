@@ -30,3 +30,13 @@ customer satisfaction and loyalty.
 If your company sells software products that must be tested before release, reducing your time to market can yield
 enormous benefits. Replacing manual testing with automated testing can cut weeks or months from elapsed testing time,
 improving your top line.
+
+## How to implement a test automation strategy
+
+The test automation pyramid strategy calls for automating tests at three different levels. Unit testing represents the
+base and biggest percentage of this test automation pyramid. Next comes, service layer, or API testing. And finally, GUI
+tests sit at the top.
+
+The pyramid looks something like this:
+
+![Test Automation Pyramid](Images/test_automation_pyramid.png)

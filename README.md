@@ -31,7 +31,7 @@ This project takes a look at terminology used in Git and explanations of other t
 
 | Description     | Contributor | Completed |
 | ----------- | ----------- | ----------- |
-| Create Github Repo                               | Justin Nietzer | <ul><li>- [x]</li><li>- [ ] item2</li></ul> |
+| Create Github Repo                               | Justin Nietzer | <ul><input type="checkbox" checked />y</ul> |
 | Create an outline for README, Sources files      | Justin Nietzer | <ul><li>- [x]</li></ul> |
 | Create directories to organize md files          | Justin Nietzer | <ul><li>- [x]</li></ul> |
 | Create .gitignore to ignore .swp and .idea       | Justin Nietzer | <ul><li>- [x]</li></ul> |

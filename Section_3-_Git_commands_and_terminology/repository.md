@@ -41,4 +41,4 @@ And type:
 
 What  `$ git init` looks like in Git Bash:
 
-![Git repo CLI](Images/Repository.png)
+![Git repo CLI](Images/repository.png)

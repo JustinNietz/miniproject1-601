@@ -9,7 +9,15 @@ This project takes a look at terminology used in Git and explanations of other t
 
 ### [Section 1 - Tools for Producitivity](Section_1-_Tools_for_Productivity)
 
+* **[Git](Section_1-_Tools_for_Productivity/git.md)**
+* **[Docker](Section_1-_Tools_for_Productivity/docker.md)**
+* **[Automated testing](Section_1-_Tools_for_Productivity/automated_testing.md)**
+* **[Continuous integration](Section_1-_Tools_for_Productivity/continuous_integration.md)**
+
+
 ### [Section 2 - The gitFlow](Section_2-_The_gitFlow)
+
+* **[Gitflow](Section_2-_The_gitFlow/gitFlow.md)**
 
 ### [Section 3 - Git commands and terminology](Section_3-_Git_commands_and_terminology)
 

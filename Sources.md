@@ -21,3 +21,4 @@
 ### Section 3 - Git commands and terminology
 
 * Repository: **[guides.github.com](https://guides.github.com/introduction/git-handbook/)**
+* Clone: **[guides.github.com](https://guides.github.com/introduction/git-handbook/)**

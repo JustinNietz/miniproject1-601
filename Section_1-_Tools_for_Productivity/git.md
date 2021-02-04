@@ -70,13 +70,13 @@ non-linear development**, **Fully Distributed**, and able to handle large projec
 
 ## Three main sections of a Git Project
 
-The working tree
+**The working tree**
 : a single checkout of one version of the project.
 
-The staging area
+**The staging area**
 : a file that stores info about what will go into your next commit.
 
-The Git directory
+**The Git directory**
 : where Git stores the metadata and object database for your project. It is what is copied when
 you clone a repository from another computer.
 

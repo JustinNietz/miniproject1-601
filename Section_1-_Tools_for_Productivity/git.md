@@ -64,8 +64,8 @@ Each and every **clone** is a full backup of all the data. You also do not need 
 the same building or even the same time zones to work on projects together. Git makes collaboration effortless.
 
 The five lessons the Linux development community used in creating Git were: **Speed**, **Simple Design**, **Strong
-support for non-linear development**, **Fully Distributed**, and able to handle large projects like the Linux kernel **
-Efficiently**.
+support for non-linear development**, **Fully Distributed**, and able to handle large projects like the Linux kernel
+**Efficiently**.
 
 ## Three main sections of a Git Project
 

@@ -41,8 +41,8 @@ This project takes a look at terminology used in Git and explanations of other t
 - [ ] Create Section 3 Features
     - [x] Repository - **JN**
     - [x] Clone
-    - [ ] Fork
-    - [ ] Branch
+    - [x] Fork
+    - [x] Branch
     - [ ] Commit
     - [ ] Merge
     - [ ] Checkout

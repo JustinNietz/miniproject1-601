@@ -2,7 +2,9 @@
 
 ### Section 1 - Tools for Producitivity
 
-* Git: **[git-scm.com](https://git-scm.com/book/en/v2)**
+* Git: 
+  * Information - **[git-scm.com](https://git-scm.com/book/en/v2)**
+  * Images - **[git-scm.com/What-is-Git](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)**
 * Docker: **[docker.com](https://www.docker.com/why-docker)**
   | **[docker.com/get-started](https://docs.docker.com/get-started/)**
   | **[oreilly.com](https://www.oreilly.com/library/view/using-docker/9781491915752/ch01.html)**

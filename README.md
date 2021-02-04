@@ -31,7 +31,7 @@ This project takes a look at terminology used in Git and explanations of other t
 
 | Description     | Contributor | Completed |
 | ----------- | ----------- | ----------- |
-| Create Github Repo                               | Justin Nietzer | <li>- [x] </li> |
+| Create Github Repo                               | Justin Nietzer | <ul><li>- [x] </li></ul> |
 | Create an outline for README, Sources files      | Justin Nietzer | <ul><li>- [x] </li></ul> |
 | Create directories to organize md files          | Justin Nietzer | <ul><li>- [x] </li></ul> |
 | Create .gitignore to ignore .swp and .idea       | Justin Nietzer | <ul><li>- [x] </li></ul> |
@@ -45,7 +45,7 @@ This project takes a look at terminology used in Git and explanations of other t
 | Create Section 3 Clone Features                  | Justin Nietzer | <ul><li>- [x] </li></ul> | 
 | Create Section 3 Fork Features                   | Justin Nietzer | <ul><li>- [x] </li></ul> | 
 | Create Section 3 Branch Features                 | Justin Nietzer | <ul><li>- [x] </li></ul  | 
-| Create Section 3 Commit eatures                  | Justin Nietzer | <ul><li>- [x] </li></u>  | 
+| Create Section 3 Commit eatures                  | Justin Nietzer | <ul><li>- [x] </li></ul>  | 
 | Create Section 3 Merge Features                  | Text        |<ul><li>- [x] </li></ul>  | 
 | Create Section 3 Checkout Features               | Text        |<ul><li>- [x] </li></ul>  | 
 | Create Section 3 Push Features                   | Text        |<ul><li>- [x] </li></ul>  | 

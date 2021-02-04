@@ -28,41 +28,30 @@ This project takes a look at terminology used in Git and explanations of other t
 * **[Commit](Section_3-_Git_commands_and_terminology/commit.md)**
 
 ## Changelog
-| Description     | Contributor |
-| ----------- | ----------- |
-|- [x] Create an outline for README    | Justin Nietzer     |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
 
-- [x] Create an outline for README - **JN**
-- [x] Create necessary directories to house all infomation - **JN**
-- [x] Create a Changelog - **JN**
-- [x] Create Section 1 Features
-    - [x] Git - **JN**
-    - [x] Docker - **JN**
-    - [x] Continuous integration - **JN**
-    - [x] Automated testing - **JN**
-- [x] Create Section 2 Features - **JN**
-    - [x] gitFlow - **JN**
-- [ ] Create Section 3 Features
-    - [x] Repository - **JN**
-    - [x] Clone - **JN**
-    - [x] Fork - **JN**
-    - [x] Branch - **JN**
-    - [x] Commit - **JN**
-    - [ ] Merge
-    - [ ] Checkout
-    - [ ] Push
-    - [ ] Pull
-    - [ ] Remote Add/Remove/Show
-    - [ ] Master Branch
-  
+| Description     | Contributor | Completed |
+| ----------- | ----------- | ----------- |
+| Create Github Repo                               | Justin Nietzer | <ul><li>- [x]</li></ul> |
+| Create an outline for README, Sources files      | Justin Nietzer | <ul><li>- [x]</li></ul> |
+| Create directories to organize md files          | Justin Nietzer | <ul><li>- [x]</li></ul> |
+| Create .gitignore to ignore .swp and .idea       | Justin Nietzer | <ul><li>- [x]</li></ul> |
+| Create a Changelog                               | Justin Nietzer | <ul><li>- [x]</li></ul> |
+| Create Section 1 Git Features                    | Justin Nietzer | <ul><li>- [x]</li></ul> | 
+| Create Section 1 Docker Features                 | Justin Nietzer | <ul><li>- [x]</li></ul> | 
+| Create Section 1 Automated Testing Features      | Justin Nietzer | <ul><li>- [x]</li></ul> | 
+| Create Section 1 Continuous integration Features | Justin Nietzer | <ul><li>- [x]</li></ul> | 
+| Create Section 2 Gitflow Features                | Justin Nietzer | <ul><li>- [x]</li></ul> | 
+| Create Section 3 Repository Features             | Justin Nietzer | <ul><li>- [x]</li></ul>  | 
+| Create Section 3 Clone Features                  | Justin Nietzer | <ul><li>- [x]</li></ul>  | 
+| Create Section 3 Fork Features                   | Justin Nietzer | <ul><li>- [x]</li></ul> | 
+| Create Section 3 Branch Features                 | Justin Nietzer | <ul><li>- [x]</li></ul>  | 
+| Create Section 3 Commit eatures                  | Justin Nietzer | <ul><li>- [x]</li></ul>  | 
+| Create Section 3 Merge Features                  | Text        |<ul><li>- [x]</li></ul>  | 
+| Create Section 3 Checkout Features               | Text        |<ul><li>- [x]</li></ul>  | 
+| Create Section 3 Push Features                   | Text        |<ul><li>- [x]</li></ul>  | 
+| Create Section 3 Pull Features                   | Text        |<ul><li>- [x]</li></ul>  | 
+| Create Section 3 Remote Add/Remove/Show Features | Text        |<ul><li>- [x]</li></ul>  | 
+| Create Section 3 Master Branch Features          | Text        |<ul><li>- [x]</li></ul>  | 
+
+
+

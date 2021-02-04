@@ -28,6 +28,20 @@ This project takes a look at terminology used in Git and explanations of other t
 * **[Commit](Section_3-_Git_commands_and_terminology/commit.md)**
 
 ## Changelog
+| Description     | Contributor |
+| ----------- | ----------- |
+|- [x] Create an outline for README    | Justin Nietzer     |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
 
 - [x] Create an outline for README - **JN**
 - [x] Create necessary directories to house all infomation - **JN**

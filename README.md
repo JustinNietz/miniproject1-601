@@ -23,8 +23,8 @@ This project takes a look at terminology used in Git and explanations of other t
     - [x] Docker - **JN**
     - [x] Continuous integration - **JN**
     - [x] Automated testing - **JN**
-- [ ] Create Section 2 Features
-    - [ ] gitFlow
+- [x] Create Section 2 Features - **JN**
+    - [x] gitFlow - **JN**
 - [ ] Create Section 3 Features
     - [ ] Repository
     - [ ] Clone

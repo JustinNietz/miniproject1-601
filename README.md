@@ -5,9 +5,9 @@ productivity and competitveness of companies.
 
 #### Group Members: 
 
-* Justin Nietzer 
+Justin Nietzer 
 
-* Nikolett Muller
+Nikolett Muller
 
 
 
@@ -15,14 +15,14 @@ productivity and competitveness of companies.
 
 ### [Section 1 - Tools for Producitivity](Section_1-_Tools_for_Productivity)
 
-1. [Git](Section_1-_Tools_for_Productivity/git.md)
-2. [Docker](Section_1-_Tools_for_Productivity/docker.md)
-3. [Automated testing](Section_1-_Tools_for_Productivity/automated_testing.md)
-4. [Continuous integration](Section_1-_Tools_for_Productivity/continuous_integration.md)
+1. **[Git](Section_1-_Tools_for_Productivity/git.md)**
+2. **[Docker](Section_1-_Tools_for_Productivity/docker.md)**
+3. **[Automated testing](Section_1-_Tools_for_Productivity/automated_testing.md)**
+4. **[Continuous integration](Section_1-_Tools_for_Productivity/continuous_integration.md)**
 
 ### [Section 2 - The gitFlow](Section_2-_The_gitFlow)
 
-1. [Gitflow](Section_2-_The_gitFlow/gitFlow.md)
+1. **[Gitflow](Section_2-_The_gitFlow/gitFlow.md)**
 
 ### [Section 3 - Git commands and terminology](Section_3-_Git_commands_and_terminology)
 

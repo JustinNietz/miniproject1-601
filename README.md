@@ -1,31 +1,36 @@
 # Miniproject1-601
-This project takes a look at terminology used in Git and explanations of other technologies that help improve the productivity and competitveness of companies.
 
-### Group Members:
-* Justin Nietzer
+This project takes a look at terminology used in Git and explanations of other technologies that help improve the
+productivity and competitveness of companies.
+
+#### Group Members: 
+
+* Justin Nietzer 
+
 * Nikolett Muller
+
+
 
 ## Index
 
 ### [Section 1 - Tools for Producitivity](Section_1-_Tools_for_Productivity)
 
-* **[Git](Section_1-_Tools_for_Productivity/git.md)**
-* **[Docker](Section_1-_Tools_for_Productivity/docker.md)**
-* **[Automated testing](Section_1-_Tools_for_Productivity/automated_testing.md)**
-* **[Continuous integration](Section_1-_Tools_for_Productivity/continuous_integration.md)**
-
+1. [Git](Section_1-_Tools_for_Productivity/git.md)
+2. [Docker](Section_1-_Tools_for_Productivity/docker.md)
+3. [Automated testing](Section_1-_Tools_for_Productivity/automated_testing.md)
+4. [Continuous integration](Section_1-_Tools_for_Productivity/continuous_integration.md)
 
 ### [Section 2 - The gitFlow](Section_2-_The_gitFlow)
 
-* **[Gitflow](Section_2-_The_gitFlow/gitFlow.md)**
+1. [Gitflow](Section_2-_The_gitFlow/gitFlow.md)
 
 ### [Section 3 - Git commands and terminology](Section_3-_Git_commands_and_terminology)
 
-* **[Repository](Section_3-_Git_commands_and_terminology/repository.md)**
-* **[Clone](Section_3-_Git_commands_and_terminology/clone.md)**
-* **[Fork](Section_3-_Git_commands_and_terminology/fork.md)**
-* **[Branch](Section_3-_Git_commands_and_terminology/branch.md)**
-* **[Commit](Section_3-_Git_commands_and_terminology/commit.md)**
+1. **[Repository](Section_3-_Git_commands_and_terminology/repository.md)**
+2. **[Clone](Section_3-_Git_commands_and_terminology/clone.md)**
+3. **[Fork](Section_3-_Git_commands_and_terminology/fork.md)**
+4. **[Branch](Section_3-_Git_commands_and_terminology/branch.md)**
+5. **[Commit](Section_3-_Git_commands_and_terminology/commit.md)**
 
 ## Changelog
 

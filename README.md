@@ -21,6 +21,8 @@ This project takes a look at terminology used in Git and explanations of other t
 
 ### [Section 3 - Git commands and terminology](Section_3-_Git_commands_and_terminology)
 
+* **[Repository](Section_3-_Git_commands_and_terminology/repository.md)**
+
 ## Changelog
 
 - [x] Create an outline for README - **JN**
@@ -34,7 +36,7 @@ This project takes a look at terminology used in Git and explanations of other t
 - [x] Create Section 2 Features - **JN**
     - [x] gitFlow - **JN**
 - [ ] Create Section 3 Features
-    - [ ] Repository
+    - [x] Repository - **JN**
     - [ ] Clone
     - [ ] Fork
     - [ ] Branch

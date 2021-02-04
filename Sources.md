@@ -19,3 +19,5 @@
 * GitFlow: **[datasift.github.io](https://datasift.github.io/gitflow/IntroducingGitFlow.html)**
 
 ### Section 3 - Git commands and terminology
+
+* Repository: **[guides.github.com](https://guides.github.com/introduction/git-handbook/)**

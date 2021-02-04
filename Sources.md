@@ -24,3 +24,4 @@
 * Clone: **[guides.github.com](https://guides.github.com/introduction/git-handbook/)**
 * Fork: **[docs.github.com](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#step-2-create-a-local-clone-of-your-fork)**
 * Branch: **[git-scm.com](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)**
+* Commit: **[atlassian.com](https://www.atlassian.com/git/tutorials/saving-changes/git-commit#:~:text=The%20git%20commit%20command%20captures,you%20explicitly%20ask%20it%20to)**

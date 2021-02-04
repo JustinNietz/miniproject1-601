@@ -40,10 +40,10 @@ This project takes a look at terminology used in Git and explanations of other t
     - [x] gitFlow - **JN**
 - [ ] Create Section 3 Features
     - [x] Repository - **JN**
-    - [x] Clone
-    - [x] Fork
-    - [x] Branch
-    - [ ] Commit
+    - [x] Clone - **JN**
+    - [x] Fork - **JN**
+    - [x] Branch - **JN**
+    - [x] Commit - **JN**
     - [ ] Merge
     - [ ] Checkout
     - [ ] Push

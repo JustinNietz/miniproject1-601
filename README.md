@@ -24,6 +24,7 @@ This project takes a look at terminology used in Git and explanations of other t
 * **[Repository](Section_3-_Git_commands_and_terminology/repository.md)**
 * **[Clone](Section_3-_Git_commands_and_terminology/clone.md)**
 * **[Fork](Section_3-_Git_commands_and_terminology/fork.md)**
+* **[Branch](Section_3-_Git_commands_and_terminology/branch.md)**
 
 ## Changelog
 

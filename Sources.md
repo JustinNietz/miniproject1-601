@@ -22,3 +22,4 @@
 
 * Repository: **[guides.github.com](https://guides.github.com/introduction/git-handbook/)**
 * Clone: **[guides.github.com](https://guides.github.com/introduction/git-handbook/)**
+* Fork: **[docs.github.com](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#step-2-create-a-local-clone-of-your-fork)**

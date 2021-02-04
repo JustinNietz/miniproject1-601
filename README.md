@@ -61,4 +61,4 @@ Nikolett Muller
 
 ## Sources
 
-Link to all source are found : **[here.](Sources.md)**
+Link to all source are found: **[here.](Sources.md)**

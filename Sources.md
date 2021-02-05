@@ -50,3 +50,7 @@
   * Information - **[freecodecamp.org](https://www.freecodecamp.org/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/)**
  | **[atlassian.com](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)**
   * Images - **[freecodecamp.org](https://www.freecodecamp.org/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/)**
+* Checkout:
+  * Information - **[freecodecamp.org](https://www.freecodecamp.org/news/git-checkout-explained/)**
+  | **[git-tower.com](https://www.git-tower.com/learn/git/commands/git-checkout/)**
+  * Images - **[atlassian.com](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)** 

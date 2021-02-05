@@ -53,4 +53,8 @@
 * Checkout:
   * Information - **[freecodecamp.org](https://www.freecodecamp.org/news/git-checkout-explained/)**
   | **[git-tower.com](https://www.git-tower.com/learn/git/commands/git-checkout/)**
-  * Images - **[atlassian.com](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)** 
+  * Images - **[atlassian.com](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)**
+* Push:
+  * Information - **[freecodecamp.org](https://www.freecodecamp.org/news/the-git-push-command-explained/)**
+    | **[atlassian.com](https://www.atlassian.com/git/tutorials/syncing/git-push)**
+  * Images - **[jquery-az.com](https://www.jquery-az.com/git-push-command/)** 

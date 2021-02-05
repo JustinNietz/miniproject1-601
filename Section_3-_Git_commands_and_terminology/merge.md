@@ -15,6 +15,7 @@ Firstly, we need to take some steps before merging.
   preparation process, we can execute `git merge <branch name>` which is the name of the branch to be merged into the
   receiving branch.
   
+![Process of merge](Images/Merge.png)
 
 ## Frequently occurred problem: Merge conflict
 

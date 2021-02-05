@@ -1,14 +1,15 @@
 # Repository
 
-A repository, or Git project, encompasses the entire collection of files and folders associated with a project, along
+A **Repository**, or *Git project*, encompasses the entire collection of files and folders associated with a project, along
 with each file’s revision history.
 
-Using the command line or other ease-of-use interfaces, a git repository also allows for: interaction with the history,
-cloning, creating branches, committing, merging, comparing changes across versions of code, and more.
+Using the command line or other ease-of-use interfaces, a git repository also allows for: **interaction with the history,
+cloning, creating branches, committing, merging, comparing changes across versions of code**, and *more*.
 
 Working in repositories keeps development projects organized and protected. Developers are encouraged to fix bugs, or
-create fresh features, without fear of derailing mainline development efforts. Git facilitates this through the use of
-topic branches: lightweight pointers to commits in history that can be easily created and deprecated when no longer
+create fresh features, without fear of derailing mainline development efforts. 
+
+Git facilitates this through the use of topic **Branches** -  lightweight pointers to commits in history that can be easily created and deprecated when no longer
 needed.
 
 There are two types of repositories:

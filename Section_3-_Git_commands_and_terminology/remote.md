@@ -20,7 +20,7 @@ e.g. `origin`). However, adding the `-v` option to the command, we will also see
 
 `Git remote -v` in action:
 
-![]() 
+![remote command in Git bash](Images/Remote.png) 
 
 ### Remote Add
 

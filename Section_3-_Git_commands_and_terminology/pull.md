@@ -4,5 +4,6 @@
 * It updates the remote tracking branches for all other branches.
 ##How to use
 When we are working on main branch, we need to execute `git pull` to update the local copy of main and update the other remote tracking branches.
-![]()
+
+![pull command in Git bash](Images/Pull.png)
 

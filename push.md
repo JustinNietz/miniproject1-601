@@ -12,7 +12,7 @@ the `git push` command looks in action.
 
     $ git push <repo name> <branch-name>
 
-![]()
+![push command in Git bash](Section_3-_Git_commands_and_terminology/Images/Push.png)
 
 However, if our branch is newly created, then we also need to upload the branch with the following
 command:

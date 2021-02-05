@@ -1,7 +1,7 @@
 # Miniproject1-601
 
 This project takes a look at terminology used in Git and explanations of other technologies that help improve the
-productivity and competitveness of companies.
+productivity and competitiveness of companies.
 
 #### Group Members: 
 

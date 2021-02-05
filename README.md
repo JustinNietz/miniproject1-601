@@ -31,7 +31,7 @@ Nikolett Muller
 3. **[Fork](Section_3-_Git_commands_and_terminology/fork.md)**
 4. **[Branch](Section_3-_Git_commands_and_terminology/branch.md)**
 5. **[Commit](Section_3-_Git_commands_and_terminology/commit.md)**
-
+6. **[Merge](Section_3-_Git_commands_and_terminology/merge.md)**
 ## Changelog
 
 | Description     | Contributor | Completed |
@@ -50,8 +50,8 @@ Nikolett Muller
 | Create Section 3 Clone Features                  | Justin Nietzer | <ul><li>- [x] </li></ul> | 
 | Create Section 3 Fork Features                   | Justin Nietzer | <ul><li>- [x] </li></ul> | 
 | Create Section 3 Branch Features                 | Justin Nietzer | <ul><li>- [x] </li></ul> | 
-| Create Section 3 Commit eatures                  | Justin Nietzer | <ul><li>- [x] </li></ul> | 
-| Create Section 3 Merge Features                  | Text        |<ul><li>- [x] </li></ul>  | 
+| Create Section 3 Commit Features                 | Justin Nietzer | <ul><li>- [x] </li></ul> | 
+| Create Section 3 Merge Features                  | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
 | Create Section 3 Checkout Features               | Text        |<ul><li>- [x] </li></ul>  | 
 | Create Section 3 Push Features                   | Text        |<ul><li>- [x] </li></ul>  | 
 | Create Section 3 Pull Features                   | Text        |<ul><li>- [x] </li></ul>  | 

@@ -21,6 +21,8 @@ it.
 ## Be cautious with detached HEAD
 
 When we `checkout` a commit, we get into a detached HEAD state. It looks like this.
-![]() 
+
+![Detached HEAD](Images/Detached_Head.png)
+
 It is important not to start developing a new feature in this state because you will not have reference to
 your new commits.

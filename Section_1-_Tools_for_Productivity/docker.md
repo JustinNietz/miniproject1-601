@@ -1,12 +1,14 @@
 # Docker <img src="Images/docker_logo.png" alt="git logo" width= 50 height=50>
 
-Docker is an open platform for developing, shipping, and running applications. It allows you to separate your
+**Docker** is an open platform for developing, shipping, and running applications. It allows you to separate your
 applications from your infrastructure so you can deliver software quickly. You can significantly reduce the delay
 between writing code and running it in production.
 
-The Docker platform has two distinct components: the **Docker Engine** (which is responsible for creating and running
-containers); and the **Docker Hub** (a cloud service for distributing containers). Docker took the existing Linux
-container technology to create a complete solution for the creation and distribution of containers.
+The Docker platform has two distinct components: the **Docker Engine** (which is responsible for *creating and running
+containers*); and the **Docker Hub** (a cloud service for *distributing containers*).
+
+Docker took the existing Linux container technology to create a complete solution for the creation and distribution of
+containers.
 
 ## Brief History
 
@@ -25,23 +27,28 @@ Once you have Docker installed, open up a command prompt and run:
 
     docker run -d -p 80:80 docker/getting-started
 
-![Docker dashboard](Images/Docker_dashboard.png)
-
 When you open the dashboard, you will see this page. The container name(jolly_bouman) is a randomly created name.
 
-Or, if you prefer a video:
+![Docker dashboard](Images/Docker_dashboard.png)
+
+If you prefer a video tutorial, please click below:
 
 [![Get started with Docker](http://img.youtube.com/vi/iqqDU2crIEQ/0.jpg)](https://www.youtube.com/watch?v=iqqDU2crIEQ "Docker")
 
 ## How Docker improves productivity
 
 Developing apps today requires so much more than writing code, including multiple languages, frameworks, and
-architectures. Docker simplifies and accelerates your workflow. It introduced the industry standard for containers,
-which allow developers to isolate their app from its environment. This solves the “it works on my machine” headache.
+architectures.
 
-Docker offers fast and consistent delivery of your applications using containers that provide your application and
-services. Docker containers can run on a developer’s local laptop, on physical or virtual machines in a data center, on
-cloud providers, or in a mixture of environments.
+Docker simplifies and accelerates your workflow. It introduced the industry standard for **containers**, which allow
+developers to isolate their app from its environment. You do not have to work about *does it works on my machine?*
+problem anymore.
 
-Docker also provides a viable, cost-effective alternative to hypervisor-based virtual machines. It is perfect for high
+Docker offers *fast and consistent delivery* of your applications using containers that provide your application and
+services.
+
+Docker containers can run on a developer’s local laptop, on physical or virtual machines in a data center, on cloud
+providers, or in a *mixture of environments*.
+
+Docker also provides a *viable, cost-effective alternative* to hypervisor-based virtual machines. It is perfect for high
 density environments and for small and medium deployments where you need to do more with fewer resources.

@@ -6,4 +6,4 @@ information about whether a file was created, modified, or deleted.
 
 After using `git status` as seen in the picture below, we get a message which includes relevant instructions for staging or unstaging files.
 
-![]()
+![status command in Command Prompt](Images/status.png)

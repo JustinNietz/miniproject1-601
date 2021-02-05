@@ -1,6 +1,6 @@
 # GitFlow
 
-GitFlow is a branching model for Git, created by Vincent Driessen.
+**GitFlow** is a *branching model* for Git, created by Vincent Driessen.
 
 ## Key Benefits
 
@@ -13,8 +13,7 @@ release.
 
 **Collaboration**
 
-Feature branches also make it easier
-for two or more developers to collaborate on the same feature, because each feature branch is a sandbox where the only
+Feature branches also make it easier for two or more developers to collaborate on the same feature, because each feature branch is a sandbox where the only
 changes are the changes necessary to get the new feature working. That makes it very easy to see and follow what each
 collaborator is doing. 
 
@@ -22,7 +21,7 @@ collaborator is doing.
 
 As new development is completed, it gets merged back into the develop
 branch, which is a staging area for all completed features that haven’t yet been released. So when the next release is
-branched off of develop, it will automatically contain all of the new stuff that has been finished. 
+branched off of develop, it will automatically contain all the new stuff that has been finished. 
 
 **Support For Emergency Fixes**
 
@@ -34,23 +33,22 @@ you’ll accidentally merge in new development at the same time.
 
 New development (new features, non-emergency bug fixes) are built in feature branches:
 
-Feature branches are branched off of the develop branch, and finished features and fixes are merged back into the
+**Feature branches** are branched off of the develop branch, and finished features and fixes are merged back into the
 develop branch when they’re ready for release:
 
 When it is time to make a release, a release branch is created off of develop:
 
 The code in the release branch is deployed onto a suitable test environment, tested, and any problems are fixed directly
-in the release branch. This deploy -> test -> fix -> redeploy -> retest cycle continues until you’re happy that the
+in the release branch. This **deploy -> test -> fix -> redeploy ->** retest cycle continues until you’re happy that the
 release is good enough to release to customers. 
 
 When the release is finished, the release branch is merged into master and into develop too, to make sure that any changes made in the release branch aren’t accidentally lost by new
-development. T
+development. 
 
-he master branch tracks released code only. The only commits to master are merges from release branches
+The master branch tracks released code only. The only commits to master are merges from release branches
 and hotfix branches. 
 
 Hotfix branches are used to create emergency fixes:
-
 
 They are branched directly from a tagged release in the master branch, and when finished are merged back into both
 master and develop to make sure that the hotfix isn’t accidentally lost when the next regular release occurs.

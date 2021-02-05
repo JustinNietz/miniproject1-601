@@ -46,3 +46,7 @@
 * Commit: 
   * Information - **[atlassian.com](https://www.atlassian.com/git/tutorials/saving-changes/git-commit#:~:text=The%20git%20commit%20command%20captures,you%20explicitly%20ask%20it%20to)**
   * Images - **[codeburst.io](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodeburst.io%2Funderstanding-git-hooks-in-the-easiest-way-bad9afcbb1b3&psig=AOvVaw1DC4bRRgdHMlxFQwHlxequ&ust=1612569956126000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCArK-50e4CFQAAAAAdAAAAABAD)**
+* Merge:
+  * Information - **[freecodecamp.org](https://www.freecodecamp.org/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/)**
+ | **[atlassian.com](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)**
+  * Images - **[freecodecamp.org](https://www.freecodecamp.org/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/)**

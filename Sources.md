@@ -48,7 +48,7 @@
   * Images - **[codeburst.io](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodeburst.io%2Funderstanding-git-hooks-in-the-easiest-way-bad9afcbb1b3&psig=AOvVaw1DC4bRRgdHMlxFQwHlxequ&ust=1612569956126000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCArK-50e4CFQAAAAAdAAAAABAD)**
 * Merge:
   * Information - **[freecodecamp.org](https://www.freecodecamp.org/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/)**
- | **[atlassian.com](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)**
+  | **[atlassian.com](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)**
   * Images - **[freecodecamp.org](https://www.freecodecamp.org/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/)**
 * Checkout:
   * Information - **[freecodecamp.org](https://www.freecodecamp.org/news/git-checkout-explained/)**
@@ -56,18 +56,21 @@
   * Images - **[atlassian.com](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)**
 * Push:
   * Information - **[freecodecamp.org](https://www.freecodecamp.org/news/the-git-push-command-explained/)**
-    | **[atlassian.com](https://www.atlassian.com/git/tutorials/syncing/git-push)**
+  | **[atlassian.com](https://www.atlassian.com/git/tutorials/syncing/git-push)**
   * Images - **[jquery-az.com](https://www.jquery-az.com/git-push-command/)**
 * Pull:
   * Information - **[freecodecamp.org](https://www.freecodecamp.org/news/git-pull-explained/)**
-    | **[atlassian.com](https://www.atlassian.com/git/tutorials/syncing/git-pull)**
+  | **[atlassian.com](https://www.atlassian.com/git/tutorials/syncing/git-pull)**
   * Images - **[jquery-az.com](https://www.jquery-az.com/git-push-command/)**
 * Remote:
   * Information - **[git-tower.com](https://www.git-tower.com/learn/git/commands/git-remote/)**
-    | **[atlassian.com](https://www.atlassian.com/git/tutorials/syncing)**
+  | **[atlassian.com](https://www.atlassian.com/git/tutorials/syncing)**
   * Images - **[stackoverflow.com](https://stackoverflow.com/questions/2432764/how-to-change-the-uri-url-for-a-remote-git-repository)**
 * Status:
   * Information - **[git-tower.com](https://www.w3docs.com/learn-git/git-status.html)**
-    | **[atlassian.com](https://www.atlassian.com/git/tutorials/inspecting-a-repository)**
+  | **[atlassian.com](https://www.atlassian.com/git/tutorials/inspecting-a-repository)**
   * Images - **[Own source]()**
-
+* Master Branch:
+  * Information - **[git-tower.com](https://www.git-tower.com/learn/git/faq/git-rename-master-to-main/)**
+  * Images - **[nobledesktop.com](https://www.nobledesktop.com/learn/git/git-branches)**
+  | **[robrich.org](https://robrich.org/archive/2020/06/20/git-how-to-rename-master-to-main.aspx)**

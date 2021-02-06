@@ -37,6 +37,7 @@ Nikolett Muller
 9. **[Pull](Section_3-_Git_commands_and_terminology/pull.md)**
 10. **[Remote](Section_3-_Git_commands_and_terminology/remote.md)**
 11. **[Status](Section_3-_Git_commands_and_terminology/status.md)**
+12. **[Master Branch](Section_3-_Git_commands_and_terminology/master_branch.md)**
 
 ## Changelog
 
@@ -63,7 +64,7 @@ Nikolett Muller
 | Create Section 3 Pull Features                   | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
 | Create Section 3 Remote Add/Remove/Show Features | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
 | Create Section 3 Status Features                 | Nikolett Muller|<ul><li>- [x] </li></ul>  |
-| Create Section 3 Master Branch Features          | Text        |<ul><li>- [x] </li></ul>  | 
+| Create Section 3 Master Branch Features          | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
 
 
 ## Sources

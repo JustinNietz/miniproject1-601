@@ -66,4 +66,8 @@
   * Information - **[git-tower.com](https://www.git-tower.com/learn/git/commands/git-remote/)**
     | **[atlassian.com](https://www.atlassian.com/git/tutorials/syncing)**
   * Images - **[stackoverflow.com](https://stackoverflow.com/questions/2432764/how-to-change-the-uri-url-for-a-remote-git-repository)**
-  
+* Status:
+  * Information - **[git-tower.com](https://www.w3docs.com/learn-git/git-status.html)**
+    | **[atlassian.com](https://www.atlassian.com/git/tutorials/inspecting-a-repository)**
+  * Images - **[Own source]()**
+

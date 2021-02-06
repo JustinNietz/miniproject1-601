@@ -70,3 +70,4 @@
   * Information - **[git-tower.com](https://www.w3docs.com/learn-git/git-status.html)**
     | **[atlassian.com](https://www.atlassian.com/git/tutorials/inspecting-a-repository)**
   * Images - **[Own source]()**
+

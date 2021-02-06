@@ -59,6 +59,11 @@
     | **[atlassian.com](https://www.atlassian.com/git/tutorials/syncing/git-push)**
   * Images - **[jquery-az.com](https://www.jquery-az.com/git-push-command/)**
 * Pull:
-* Information - **[freecodecamp.org](https://www.freecodecamp.org/news/git-pull-explained/)**
-  | **[atlassian.com](https://www.atlassian.com/git/tutorials/syncing/git-pull)**
-* Images - **[jquery-az.com](https://www.jquery-az.com/git-push-command/)** 
+  * Information - **[freecodecamp.org](https://www.freecodecamp.org/news/git-pull-explained/)**
+    | **[atlassian.com](https://www.atlassian.com/git/tutorials/syncing/git-pull)**
+  * Images - **[jquery-az.com](https://www.jquery-az.com/git-push-command/)**
+* Remote:
+  * Information - **[git-tower.com](https://www.git-tower.com/learn/git/commands/git-remote/)**
+    | **[atlassian.com](https://www.atlassian.com/git/tutorials/syncing)**
+  * Images - **[stackoverflow.com](https://stackoverflow.com/questions/2432764/how-to-change-the-uri-url-for-a-remote-git-repository)**
+  

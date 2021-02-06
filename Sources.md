@@ -74,4 +74,3 @@
   * Information - **[git-tower.com](https://www.git-tower.com/learn/git/faq/git-rename-master-to-main/)**
   * Images - **[nobledesktop.com](https://www.nobledesktop.com/learn/git/git-branches)**
   | **[robrich.org](https://robrich.org/archive/2020/06/20/git-how-to-rename-master-to-main.aspx)**
-  

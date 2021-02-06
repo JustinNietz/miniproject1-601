@@ -38,6 +38,7 @@ Nikolett Muller
 10. **[Remote](Section_3-_Git_commands_and_terminology/remote.md)**
 11. **[Status](Section_3-_Git_commands_and_terminology/status.md)**
 12. **[Master Branch](Section_3-_Git_commands_and_terminology/master_branch.md)**
+
 ## Changelog
 
 | Description     | Contributor | Completed |

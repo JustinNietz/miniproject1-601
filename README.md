@@ -36,6 +36,7 @@ Nikolett Muller
 8. **[Push](Section_3-_Git_commands_and_terminology/push.md)**
 9. **[Pull](Section_3-_Git_commands_and_terminology/pull.md)**
 10. **[Remote](Section_3-_Git_commands_and_terminology/remote.md)**
+
 ## Changelog
 
 | Description     | Contributor | Completed |
@@ -59,7 +60,7 @@ Nikolett Muller
 | Create Section 3 Checkout Features               | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
 | Create Section 3 Push Features                   | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
 | Create Section 3 Pull Features                   | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
-| Create Section 3 Remote Add/Remove/Show Features | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
+| Create Section 3 Remote Add/Remove/Show Features | Text        |<ul><li>- [x] </li></ul>  | 
 | Create Section 3 Master Branch Features          | Text        |<ul><li>- [x] </li></ul>  | 
 
 

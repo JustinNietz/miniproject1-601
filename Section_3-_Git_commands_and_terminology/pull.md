@@ -20,6 +20,3 @@ combination of two commands: `git fetch` and `git merge`. In essence, `git pull`
 
 When we are working on main branch, we need to execute `git pull` to update the local copy of main and update the other
 remote tracking branches.
-
-![]() Picture
-

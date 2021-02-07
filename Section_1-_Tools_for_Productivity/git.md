@@ -48,7 +48,7 @@ You can use `git clone` when you want to clone a repo from **Github**.
 Version control systems record changes to a file or set of files over time so that you can recall specific version
 later. Before DVCSs, there were **Local Version Control Systems** and **CVCSs** (Centralized Version Control Systems).
 
-**Local Version Control** kept all changes to files under revision control on one computer.
+**Local Version Control** keep all changes to files under revision control on one computer.
 
 **CVCSs** have a single server that contains all the versioned files.
 

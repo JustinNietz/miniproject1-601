@@ -20,7 +20,7 @@ Firstly, we need to take some steps before merging.
 ## Frequently occurred problem: Merge conflict
 
 Conflicts could happen when two people have changed the same line in a file, or if a developer deleted a file while
-another developer was modifying it. When such things occur, Git cannot decide whichever changes to keep. Therefore,
+another developer was modifying it. When such things occur, Git cannot decide which changes to keep. Therefore,
 developers are responsible for resolving the problem. The most common way to fix this issue is to edit the file in which
 the conflict arose. Besides this, we have a couple more tools to resolve the conflict.
 

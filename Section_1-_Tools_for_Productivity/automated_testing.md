@@ -41,8 +41,8 @@ enormous benefits. Replacing manual testing with automated testing can *cut week
 
 The test automation pyramid strategy calls for automating tests at three different levels.
 
-**Unit testing** represents the base and biggest percentage of this test automation pyramid. Then integration, then,
-service layer, or **API testing**. And finally, **GUI** tests sit at the top.
+**Unit testing** represents the base and biggest percentage of this test automation pyramid. Next, integration and then
+service layer, or **API testing**. Finally, **GUI** tests sit at the top.
 
 The pyramid looks something like this:
 

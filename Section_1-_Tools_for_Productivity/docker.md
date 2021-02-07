@@ -41,7 +41,7 @@ Developing apps today requires so much more than writing code, including multipl
 architectures.
 
 Docker simplifies and accelerates your workflow. It introduced the industry standard for **containers**, which allow
-developers to isolate their app from its environment. You do not have to work about *does it works on my machine?*
+developers to isolate their app from its environment. You do not have to work about the *"does it works on my machine?"*
 problem anymore.
 
 Docker offers *fast and consistent delivery* of your applications using containers that provide your application and

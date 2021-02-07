@@ -1,6 +1,6 @@
 # GitFlow
 
-**GitFlow** is a *branching model* for Git, created by Vincent Driessen.
+**GitFlow** is a *branching model* for Git created by Vincent Driessen.
 
 ## Key Benefits
 
@@ -29,7 +29,7 @@ GitFlow supports hotfix branches - branches made from a tagged release. You can 
 emergency change, safe in the knowledge that the hotfix will only contain your emergency fix. There’s no risk that
 you’ll accidentally merge in new development at the same time.
 
-# How it Works
+# How Gitflow Works
 
 New development (new features, non-emergency bug fixes) are built in feature branches:
 
@@ -42,7 +42,7 @@ The code in the release branch is deployed onto a suitable test environment, tes
 in the release branch. This **deploy -> test -> fix -> redeploy ->** retest cycle continues until you’re happy that the
 release is good enough to release to customers. 
 
-When the release is finished, the release branch is merged into master and into develop too, to make sure that any changes made in the release branch aren’t accidentally lost by new
+When the release is finished, the release branch is merged into master and into develop to make sure that any changes made in the release branch aren’t accidentally lost by new
 development. 
 
 The master branch tracks released code only. The only commits to master are merges from release branches

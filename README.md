@@ -48,23 +48,23 @@ Nikolett Muller
 | Create directories to organize md files          | Justin Nietzer | <ul><li>- [x] </li></ul> |
 | Create .gitignore to ignore .swp and .idea       | Justin Nietzer | <ul><li>- [x] </li></ul> |
 | Create a Changelog                               | Justin Nietzer | <ul><li>- [x] </li></ul> |
-| Create Section 1 Git Features                    | Justin Nietzer | <ul><li>- [x] </li></ul> | 
-| Create Section 1 Docker Features                 | Justin Nietzer | <ul><li>- [x] </li></ul> | 
-| Create Section 1 Automated Testing Features      | Justin Nietzer | <ul><li>- [x] </li></ul> | 
-| Create Section 1 Continuous integration Features | Justin Nietzer | <ul><li>- [x] </li></ul> | 
-| Create Section 2 Gitflow Features                | Justin Nietzer | <ul><li>- [x] </li></ul> | 
-| Create Section 3 Repository Features             | Justin Nietzer | <ul><li>- [x] </li></ul> | 
-| Create Section 3 Clone Features                  | Justin Nietzer | <ul><li>- [x] </li></ul> | 
-| Create Section 3 Fork Features                   | Justin Nietzer | <ul><li>- [x] </li></ul> | 
-| Create Section 3 Branch Features                 | Justin Nietzer | <ul><li>- [x] </li></ul> | 
-| Create Section 3 Commit Features                 | Justin Nietzer | <ul><li>- [x] </li></ul> | 
-| Create Section 3 Merge Features                  | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
-| Create Section 3 Checkout Features               | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
-| Create Section 3 Push Features                   | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
-| Create Section 3 Pull Features                   | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
-| Create Section 3 Remote Add/Remove/Show Features | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
-| Create Section 3 Status Features                 | Nikolett Muller|<ul><li>- [x] </li></ul>  |
-| Create Section 3 Master Branch Features          | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
+| Create Section 1 Git Features (1)                  | Justin Nietzer | <ul><li>- [x] </li></ul> | 
+| Create Section 1 Docker Features (2)                 | Justin Nietzer | <ul><li>- [x] </li></ul> | 
+| Create Section 1 Automated Testing Features (2)     | Justin Nietzer | <ul><li>- [x] </li></ul> | 
+| Create Section 1 Continuous integration Features (2) | Justin Nietzer | <ul><li>- [x] </li></ul> | 
+| Create Section 2 Gitflow Features (1)                | Justin Nietzer | <ul><li>- [x] </li></ul> | 
+| Create Section 3 Repository Features (2)             | Justin Nietzer | <ul><li>- [x] </li></ul> | 
+| Create Section 3 Clone Features (1)                 | Justin Nietzer | <ul><li>- [x] </li></ul> | 
+| Create Section 3 Fork Features (1)                   | Justin Nietzer | <ul><li>- [x] </li></ul> | 
+| Create Section 3 Branch Features (1)               | Justin Nietzer | <ul><li>- [x] </li></ul> | 
+| Create Section 3 Commit Features (1)                | Justin Nietzer | <ul><li>- [x] </li></ul> | 
+| Create Section 3 Merge Features (2)                | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
+| Create Section 3 Checkout Features (2)             | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
+| Create Section 3 Push Features (2)               | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
+| Create Section 3 Pull Features (2)                  | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
+| Create Section 3 Remote Add/Remove/Show Features (2) | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
+| Create Section 3 Status Features (2)                 | Nikolett Muller|<ul><li>- [x] </li></ul>  |
+| Create Section 3 Master Branch Features (2)      | Nikolett Muller|<ul><li>- [x] </li></ul>  | 
 
 
 ## Sources

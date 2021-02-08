@@ -21,8 +21,7 @@ There are two types of repositories:
 ## Command to Initialize a Repository
 
 If you have a project directory that is currently not under version control and you want to start controlling it with
-Git, you first need to go to that project’s directory. If you’ve never done this, it looks a little different depending
-on which system you’re running:
+Git, you first need to go to that project’s directory.
 
 For Linux:
 

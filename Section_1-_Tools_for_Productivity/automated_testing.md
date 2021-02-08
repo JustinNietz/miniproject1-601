@@ -3,29 +3,28 @@
 There are two kinds of testing in the world of software — **manual** and **automated**.
 
 You can do other kinds of testing, like *regression testing* and *functional testing*, manually, but it’s a fairly
-wasteful practice for humans to keep doing the same thing over and over again. It’s these kinds of repetitive tests that
-lend themselves to **test automation**.
+wasteful practice to keep doing the same thing over and over again. This is the reason that **test automation** is created.
 
 Test automation, or automated testing, is the practice of running *tests automatically*, *managing test data*, and
 utilizing results to *improve software quality*.
 
-It’s primarily a *quality assurance* measure, but its activities involve the commitment of the entire software
+It’s primarily a *quality assurance* measure, but also involves the commitment of the entire software
 production team.
 
 ## How Automated testing improves productivity
 
 The **Goal of Automation** is to *reduce* the number of test cases to be run manually. A professional automated testing
 software can be seen as a solution to a common problem: how to produce *high-quality*, *robust* and *reliable software*
-with ever-growing complexity with technology under massive competitive pressure.
+with complex technological features.
 
-In fact, automated software testing provides a cost-effective solution to this problem.
+Automated software testing provides a cost-effective solution to this problem.
 
 Automated software testing improves business results in three ways:
 
 **Increased test efficiency**
 
 This affects average number of tests you can run for an hour of tester time. Higher testing efficiency drives down
-*product development time and costs*, improving your bottom line.
+*product development time and costs*.
 
 **Testing effectiveness**
 
